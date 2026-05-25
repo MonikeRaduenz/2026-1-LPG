@@ -5,7 +5,7 @@
 
 int main()
 {
-    float vetor[TAMANHO], media=0, soma=0;
+    float vetor[TAMANHO], media = 0, soma = 0;
     for (int i = 0; i < TAMANHO; i++)
     {
         printf("Digite um valor %d: ", i + 1);
