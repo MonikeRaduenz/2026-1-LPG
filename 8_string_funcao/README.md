@@ -9,7 +9,7 @@ adicionar a segunda string ao final da primeira, como a função strcat.<p>
 3. Crie uma função chamada meu strcpy que copia o conteúdo de uma string para
 outra, como a função strcpy.<p>
 
-4. Função strcmp:
+4. Função strcmp:<br>
 • Crie uma função chamada meu strcmp que compara duas strings e retorna:<br>
 – 1, se as strings são iguais.<br>
 – 0, se as strings não são iguais.<p>
