@@ -19,7 +19,7 @@
 – *(v + i) =<br>
 – *(v + (i + 2)) =<br>
 4. Qual a saída resultante?<br>
-<img src="https://github.com/MonikeRaduenz/2026-1-LPG/10_ponteiros/ponteiros.png" alt="ponteiros" width="200"/><br>
+<img src="ponteiros.png" alt="ponteiros" width="200"/><br>
 Sendo que **p aponta para o endereço 000 e i tem o valor 3.<br>
 • p + i =<br>
 • p[i + 2] =<br>
