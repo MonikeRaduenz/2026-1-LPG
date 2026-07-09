@@ -1,0 +1,3 @@
+Nome: morango
+Quantidade: 10
+Preco: 2.50
